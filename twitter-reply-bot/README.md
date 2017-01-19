@@ -9,7 +9,7 @@ I have stopped running this once the concept was proven. My colleagues and regul
 # Usage
 
 Follow these steps
-* Get a Twitter API key
+* Get a Twitter API key at [Twitter Apps](https://apps.twitter.com/)
 * Fill in the following lines with your credentials:
 ~~~~
 consumer_key = ''
